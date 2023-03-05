@@ -1,0 +1,8 @@
+C:\Users\Ricar\OneDrive\Escritorio\PracticaPrendas\bin\Debug\PracticaPrendas.exe.config
+C:\Users\Ricar\OneDrive\Escritorio\PracticaPrendas\bin\Debug\PracticaPrendas.exe
+C:\Users\Ricar\OneDrive\Escritorio\PracticaPrendas\bin\Debug\PracticaPrendas.pdb
+C:\Users\Ricar\OneDrive\Escritorio\PracticaPrendas\obj\Debug\PracticaPrendas.csproj.AssemblyReference.cache
+C:\Users\Ricar\OneDrive\Escritorio\PracticaPrendas\obj\Debug\PracticaPrendas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ricar\OneDrive\Escritorio\PracticaPrendas\obj\Debug\PracticaPrendas.csproj.CoreCompileInputs.cache
+C:\Users\Ricar\OneDrive\Escritorio\PracticaPrendas\obj\Debug\PracticaPrendas.exe
+C:\Users\Ricar\OneDrive\Escritorio\PracticaPrendas\obj\Debug\PracticaPrendas.pdb
